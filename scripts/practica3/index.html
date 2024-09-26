@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insertar Clientes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        form {
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            width: 300px;
+        }
+        input[type="text"], input[type="date"] {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+        }
+        input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h2>Insertar datos en la tabla Customers</h2>
+    <form action="insert.php" method="POST">
+        <label for="customer_id">ID del Cliente:</label>
+        <input type="text" id="customer_id" name="customer_id" required>
+
+        <label for="first_name">Nombre:</label>
+        <input type="text" id="first_name" name="first_name" required>
+
+        <label for="last_name">Apellido:</label>
+        <input type="text" id="last_name" name="last_name" required>
+
+        <label for="subscription_date">Fecha de Suscripción:</label>
+        <input type="date" id="subscription_date" name="subscription_date" required>
+
+        <label for="website">Sitio Web:</label>
+        <input type="text" id="website" name="website" required>
+
+        <input type="submit" value="Insertar Cliente">
+    </form>
+</body>
+</html>
