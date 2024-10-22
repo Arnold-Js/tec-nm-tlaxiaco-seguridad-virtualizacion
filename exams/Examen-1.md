@@ -1,6 +1,6 @@
 # Examen 1 - Seguridad de la Información y Gestión de Sistemas de Información
 
-Nombre:
+Nombre:Arnol Jesus Cruz Ortiz 
 
 **Instrucciones**: Selecciona la respuesta correcta para cada una de las siguientes preguntas.
 
@@ -15,6 +15,7 @@ Nombre:
 
 * [ ] a) Es la gestión de sistemas tecnológicos para la administración de la información.
 * [x] b) Es el proceso de gestión del ciclo de vida completo de la información, desde su creación hasta su eliminación.
+* [ ] b) Es el proceso de gestión del ciclo de vida completo de la información, desde su creación hasta su eliminación.
 * [ ] c) Es la disciplina encargada del diseño, implementación y mantenimiento de sistemas de información.
 * [ ] d) Es el conjunto de reglas y directrices que rigen la protección de la información.
 
@@ -23,6 +24,7 @@ Nombre:
 * [ ] a) Planeación, organización, dirección, control y evaluación.
 * [ ] b) Hardware, software, datos, procedimientos y personas.
 * [x] c) Recopilación, almacenamiento, distribución, archivo y destrucción.
+
 * [ ] d) Confidencialidad, integridad, disponibilidad, autenticación y autorización.
 
 4. ¿Cuál de los siguientes NO es un beneficio de la gestión de la información?
@@ -36,6 +38,7 @@ Nombre:
 
 * [ ] a) Es el proceso de gestión del ciclo de vida completo de la información.
 * [ ] b) Es la gestión de los riesgos y el cumplimiento normativo de la información.
+
 * [x] c) Es la disciplina encargada del diseño, la implementación, el monitoreo y el mantenimiento de sistemas tecnológicos de información.
 * [ ] d) Es el conjunto de reglas y directrices que rigen la protección de la información.
 
@@ -56,7 +59,7 @@ Nombre:
 8. ¿Qué significa GRC?
 
 * [ ] a) Gestión de Recursos de la Compañía.
-* [x] b) Gobernanza, Riesgo y Cumplimiento.
+* [x] b) Gobernaza, Riesgo y Cumplimiento.
 * [ ] c) Gestión de Recursos y Cumplimiento.
 * [ ] d) Gobernanza, Reglas y Control.
 
@@ -87,6 +90,7 @@ Nombre:
 * [ ] b) Software de gestión de cumplimiento.
 * [ ] c) Software de gestión de auditoría.
 * [x] d) Software de gestión de proyectos.
+
 
 13. ¿Cuál de los siguientes enunciados NO es un principio de seguridad de la información?
 
@@ -141,6 +145,7 @@ Nombre:
 
 * [ ] a) Un proceso de revisión y evaluación de los controles de seguridad.
 * [ ] b) Un proceso de copia de seguridad y almacenamiento de la información.
+
 * [x] c) Un proceso de evaluación de la seguridad que simula un ataque real.
 * [ ] d) Un proceso de supervisión y seguimiento de la seguridad de la información.
 
@@ -185,6 +190,7 @@ Nombre:
 * [ ] b) Distribución de información.
 * [ ] c) Archivo de información.
 * [x] d) Análisis de la rentabilidad de la información.
+
 
 27. ¿Cuál de los siguientes es un ejemplo de un sistema de información de gestión empresarial?
 
